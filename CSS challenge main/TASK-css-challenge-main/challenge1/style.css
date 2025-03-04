@@ -1,0 +1,26 @@
+
+body{
+    background-color: #211D4F;
+}
+
+.dancing-script-font {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    color:white;
+}
+
+.cover-image{
+    width:280px; 
+    height: 419px;
+}
+  
+.centered{
+    text-align: center;
+}
+
+.container{
+    border:solid white 1px;
+    margin: 5px;
+}
